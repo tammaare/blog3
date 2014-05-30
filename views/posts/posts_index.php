@@ -2,7 +2,7 @@
 
 <?foreach($posts as $post):?>
 <div class="span8">
-    <h1><?=$post['post_subject']?></h1></a>
+    <h1><?=$post['post_subject']?></h1>
     <p><?=$post['post_text']?></p>
 
         <div>
